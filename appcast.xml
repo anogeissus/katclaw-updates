@@ -21,21 +21,5 @@
                        sparkle:edSignature="jhhfyXCNePTldXBrFYkv+hYR9BbW+Le+mttfO1Qtw849PsUCJI252QKRR8wjjHD5yjf3B3uVYPhR8p8X7LSDCw=="
                        length="7765736" />
         </item>
-        <item>
-            <title>KatClaw 2026.2.28 (Build 330)</title>
-            <description><![CDATA[
-                <ul>
-                    <li>Minor corrections and improvements</li>
-                </ul>
-            ]]></description>
-            <pubDate>Sat, 28 Feb 2026 22:08:00 -0800</pubDate>
-            <sparkle:version>330</sparkle:version>
-            <sparkle:shortVersionString>2026.2.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.2.28-330/KatClaw.dmg"
-                       type="application/octet-stream"
-                       sparkle:edSignature="U5c7fDkP5JyLkehlVn/v3kM8IzsVfgcYhedBfTnR9+KOJlu5EfNyznxMYiLms8ReQDwLGrpx93GwfJ/b37WzBA=="
-                       length="7782193" />
-        </item>
     </channel>
 </rss>

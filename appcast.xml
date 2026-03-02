@@ -5,6 +5,26 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>KatClaw 2026.3.2 (Build 333)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>OpenAI OAuth Guide: native floating panel with step-by-step instructions</li>
+                    <li>Green numbered steps, scrollable, resizable, stays on top</li>
+                    <li>Fixed extra idle Terminal window on OAuth flow</li>
+                    <li>Updated OAuth steps to current 12-step OpenClaw wizard</li>
+                    <li>Terminal script: proper success/failure handling</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Mar 2026 14:00:00 -0800</pubDate>
+            <sparkle:version>333</sparkle:version>
+            <sparkle:shortVersionString>2026.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.2-333/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="7c7W94dnx12M6hVMnaVlLKwvE2930PPxWe7cTI5Z5gIup59zanB2wcsemgOdZXVQut3WqbttkCbDgLnkI7WdCQ=="
+                       length="7789085" />
+        </item>
+        <item>
             <title>KatClaw 2026.3.1 (Build 331)</title>
             <description><![CDATA[
                 <ul>

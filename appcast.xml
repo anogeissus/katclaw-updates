@@ -5,6 +5,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>KatClaw 2026.3.2 (Build 334)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved configuration stability when switching AI providers</li>
+                    <li>Fixed version comparison in update checker</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Mar 2026 20:50:00 -0800</pubDate>
+            <sparkle:version>334</sparkle:version>
+            <sparkle:shortVersionString>2026.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.2-334/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Q4l/kwjMC9FTEQfyk8ds0SVaBvUsd3aynHpeLZ2p7iBoB5MckqsSfvp+i4ljnmPAPRnyaFPLCnBxg+kMD+uNCg=="
+                       length="7789118" />
+        </item>
+        <item>
             <title>KatClaw 2026.3.2 (Build 333)</title>
             <description><![CDATA[
                 <ul>

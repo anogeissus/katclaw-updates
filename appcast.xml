@@ -5,6 +5,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>KatClaw 2026.3.3 (Build 336)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed compatibility with OpenClaw 2026.3.2 — your agent now keeps full access to all tools after updating OpenClaw</li>
+                    <li>Existing configurations are automatically repaired on launch</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 04 Mar 2026 22:00:00 -0800</pubDate>
+            <sparkle:version>336</sparkle:version>
+            <sparkle:shortVersionString>2026.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.3-336/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="8g8hPG0fUmT4vVheViS797Z/3tEziFuhssVg3D0ESbgAAszypUVcBkOe/6Y97X5m9D16zzDYEnjSJuOjjFj7CQ=="
+                       length="7793017" />
+        </item>
+        <item>
             <title>KatClaw 2026.3.2 (Build 334)</title>
             <description><![CDATA[
                 <ul>

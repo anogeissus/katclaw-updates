@@ -5,6 +5,29 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>KatClaw 2026.3.6 (Build 340)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Skills Manager — 3-tab UI: Installed, Browse ClawHub, Custom editor</li>
+                    <li>VirusTotal safety badges for community skills (Safe/Suspicious/Blocked)</li>
+                    <li>One-click Homebrew install for missing skill dependencies</li>
+                    <li>Homebrew detection with install prompt if missing</li>
+                    <li>Custom skill editor with save/restore/delete</li>
+                    <li>China region auto-detection for Moonshot/Kimi endpoints</li>
+                    <li>Improved chevron tap targets in skills list</li>
+                    <li>Missing prereq details: bins, env vars, and config keys</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 05 Mar 2026 20:40:00 -0800</pubDate>
+            <sparkle:version>340</sparkle:version>
+            <sparkle:shortVersionString>2026.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.6-340/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="jrQTOf5+E51VXeFa9eI+AbPZKqboKfbU9y9uv/WH7CEVQXKmF5gI1zFKzKZelruR70jz/D94hBBoVfGM00lFDg=="
+                       length="9337663" />
+        </item>
+        <item>
             <title>KatClaw 2026.3.3 (Build 336)</title>
             <description><![CDATA[
                 <ul>

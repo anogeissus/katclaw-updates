@@ -5,7 +5,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>KatClaw 2026.3.6 (Build 340)</title>
+            <title>KatClaw 2026.3.6 (Build 341)</title>
             <description><![CDATA[
                 <ul>
                     <li>Skills Manager — 3-tab UI: Installed, Browse ClawHub, Custom editor</li>
@@ -16,16 +16,17 @@
                     <li>China region auto-detection for Moonshot/Kimi endpoints</li>
                     <li>Improved chevron tap targets in skills list</li>
                     <li>Missing prereq details: bins, env vars, and config keys</li>
+                    <li>Fixed: Last Known Good backup not saving on gateway restart or stop/start</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 05 Mar 2026 20:40:00 -0800</pubDate>
-            <sparkle:version>340</sparkle:version>
+            <pubDate>Thu, 06 Mar 2026 00:20:00 -0800</pubDate>
+            <sparkle:version>341</sparkle:version>
             <sparkle:shortVersionString>2026.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.6-340/KatClaw.dmg"
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.6-341/KatClaw.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="jrQTOf5+E51VXeFa9eI+AbPZKqboKfbU9y9uv/WH7CEVQXKmF5gI1zFKzKZelruR70jz/D94hBBoVfGM00lFDg=="
-                       length="9337663" />
+                       sparkle:edSignature="aKtocj+B9k1F7H32s2TcoY0VfqvhZ56wTWv0jNUxLKWQdLleEjqJmUCRPgVoE7M3MDNCM87dRvXBLH469KGUDQ=="
+                       length="9338617" />
         </item>
         <item>
             <title>KatClaw 2026.3.3 (Build 336)</title>

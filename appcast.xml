@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
+        <item>
+            <title>KatClaw 2026.3.10 (Build 347)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Added full Simplified Chinese localization</li>
+                    <li>Added model selection for OpenAI subscription accounts</li>
+                    <li>Fixed OpenClaw version/update detection for 2026.3.8 and later</li>
+                    <li>Various bug fixes and compatibility improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 10 Mar 2026 17:29:00 -0800</pubDate>
+            <sparkle:version>347</sparkle:version>
+            <sparkle:shortVersionString>2026.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.10-347/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Mb/9k71Yr4nh1SZ3ZS1gRtpkZUdDg6zNe3xf5L0h6VRCPRrxM7LNMYTL9LIiMSGVYX/akUhHcc1VYuXMsBiFCg=="
+                       length="13440258" />
+        </item>
         <title>KatClaw Updates</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>

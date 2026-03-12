@@ -2,6 +2,28 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.3.11 (Build 350)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed gateway token not refreshing after restart or backup restore</li>
+                    <li>Wizard now detects npm availability (Node v25+ compatibility)</li>
+                    <li>Homebrew users get brew upgrade instead of redundant .pkg install</li>
+                    <li>SkillHub registry hidden for non-China users</li>
+                    <li>Added Browse button to locate backup files for migration</li>
+                    <li>Double-clicking app now opens Dashboard instead of Wizard</li>
+                    <li>Fixed duplicated OpenClaw version in About dialog</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 11 Mar 2026 17:15:00 -0700</pubDate>
+            <sparkle:version>350</sparkle:version>
+            <sparkle:shortVersionString>2026.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.11-350/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="CFv7jZUEwLTBTg4LuWqU9ImFk9WO9dgGbtXbGbWUXgZzASg47ly+D+CjZAv7S1naeh/LYaKPsyyBb72X01UgAA=="
+                       length="13717309"/>
+        </item>
+        <item>
             <title>KatClaw 2026.3.10 (Build 347)</title>
             <description><![CDATA[
                 <ul>

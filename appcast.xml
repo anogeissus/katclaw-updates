@@ -46,6 +46,25 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>KatClaw 2026.3.13 (Build 352)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>New Health Check window — scan for issues and auto-fix with one click</li>
+                    <li>Update Window now runs a health check automatically after updates</li>
+                    <li>Improved window sizing for better readability</li>
+                    <li>Supports OpenClaw 2026.3.12</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 13 Mar 2026 00:20:00 -0700</pubDate>
+            <sparkle:version>352</sparkle:version>
+            <sparkle:shortVersionString>2026.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.13-352/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="H09oUcp8L/UummmgiggSazlEhGfIH+ATtSzh75cR2mqSX9+AokcW8v3JX7Xnitv16sx//7dF47bIiWWpvj0KDw=="
+                       length="13768669" />
+        </item>
+        <item>
             <title>KatClaw 2026.3.6 (Build 341)</title>
             <description><![CDATA[
                 <ul>

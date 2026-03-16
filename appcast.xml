@@ -2,6 +2,24 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.3.16 (Build 353)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed Moderate security mode: default allowlist now uses full binary paths</li>
+                    <li>Fixed "Always Allow" approval overwriting the allowlist instead of merging</li>
+                    <li>Allowlist now written after gateway restart to prevent being overwritten</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 16 Mar 2026 16:09:00 -0700</pubDate>
+            <sparkle:version>353</sparkle:version>
+            <sparkle:shortVersionString>2026.3.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.3.16-353/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="ejQ8NgbSXSGFlQ5jpprT5j2JIME/tF8XtCxPYYojI6TQ0gly9TuaHtDDKgvE6EQCJH0WXc24MfBUN9tFj9cJAg=="
+                       length="13770792"/>
+        </item>
+        <item>
             <title>KatClaw 2026.3.11 (Build 350)</title>
             <description><![CDATA[
                 <ul>

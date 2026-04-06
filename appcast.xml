@@ -2,6 +2,23 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.4.5 (Build 365)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved compatibility with the latest version of OpenClaw</li>
+                    <li>Fixed incorrect detection of virtual machines on Macs that have Parallels Desktop installed</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 06 Apr 2026 05:10:00 -0700</pubDate>
+            <sparkle:version>365</sparkle:version>
+            <sparkle:shortVersionString>2026.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.4.5-365/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="pJw3swrt3Zz+zuPRi73SycjP9U9t6LYca9aVkOmDe+09mWFeJYEIc1nxTiUOMeQkiCLT2Zh1m7yf4amQ9n82BA=="
+                       length="14016263" />
+        </item>
+        <item>
             <title>KatClaw 2026.4.2 (Build 363)</title>
             <description><![CDATA[
                 <ul>

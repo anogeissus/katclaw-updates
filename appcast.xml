@@ -2,6 +2,22 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.5.6 (Build 375)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Improves OpenClaw 2026.5.6 compatibility, refreshes AI model choices, and fixes Security Settings allowlist saving.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 06 May 2026 22:52:00 -0700</pubDate>
+            <sparkle:version>375</sparkle:version>
+            <sparkle:shortVersionString>2026.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.5.6-375/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="C5IRLCzYNHCk4uMvm5o7elX4O/3yxB+jw/HXHfSAy6iNRS05HbpuaUdpyav3ETzS3jBIh7jSkUrtL0XUK5xrDQ=="
+                       length="14022621" />
+        </item>
+        <item>
             <title>KatClaw 2026.4.5 (Build 365)</title>
             <description><![CDATA[
                 <ul>

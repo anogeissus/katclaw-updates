@@ -2,6 +2,26 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.5.9 (Build 380)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Updated Kimi/Moonshot developer portal link to platform.kimi.ai (global region).</li>
+                    <li>Improved Security Audit fix routing for Telegram exposure warnings.</li>
+                    <li>Added fallback behavior so “Apply Fix” opens config guidance when no one-click patch exists.</li>
+                    <li>Expanded zh-Hans/zh-Hant translations for Security Audit and related security guidance screens.</li>
+                    <li>General compatibility and reliability improvements for OpenClaw 2026.5.x flows.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 12 May 2026 10:02:00 -0700</pubDate>
+            <sparkle:version>380</sparkle:version>
+            <sparkle:shortVersionString>2026.5.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.5.9-380/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="0J1KQr5fN7gVh5YnIr8Gs6294RTpkrvQ0z37glcxxQvblHy2P/KXIINGRDRCMv+KklBAr9wMelSPK8pIxH2TAQ=="
+                       length="18160171" />
+        </item>
+        <item>
             <title>KatClaw 2026.5.6 (Build 375)</title>
             <description><![CDATA[
                 <ul>

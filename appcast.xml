@@ -2,6 +2,24 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.5.19 (Build 381)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Updated KatClaw to handle newer OpenClaw config schema changes more reliably.</li>
+                    <li>Improved Codex/OpenAI model routing compatibility for recent OpenClaw versions.</li>
+                    <li>Refined setup/auth detection around OpenAI/Codex provider status checks.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 19 May 2026 04:08:00 -0700</pubDate>
+            <sparkle:version>381</sparkle:version>
+            <sparkle:shortVersionString>2026.5.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.5.19-381/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="mSQcBdxX4QVbKANS6OBpovthHXu2AnS8EBoommGCrc829foNv3wJIus9U2ZvMBPn2sWiRZ6xibi/NPFv6QwVDQ=="
+                       length="18166636" />
+        </item>
+        <item>
             <title>KatClaw 2026.5.9 (Build 380)</title>
             <description><![CDATA[
                 <ul>

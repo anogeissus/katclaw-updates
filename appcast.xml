@@ -2,6 +2,26 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.5.20 (Build 382)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>OpenClaw Updates window logs are now selectable and copyable.</li>
+                    <li>Added a Copy Log button in the OpenClaw Updates window.</li>
+                    <li>Fixed Auto-Fix gateway recovery flow for newer OpenClaw by explicitly starting gateway after fixes.</li>
+                    <li>Improved compatibility with recent OpenClaw update behavior.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 20 May 2026 16:57:47 -0700</pubDate>
+            <sparkle:version>382</sparkle:version>
+            <sparkle:shortVersionString>2026.5.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.5.20-382/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="ra4m3Vw3xqC1vim6PGxP7LwjPCo23oG8hHvSkLFmlX9YZZ5PjZ0FOGDGV7GkZAsBIO7M5sn/0lRKRMmoWm6aDA=="
+                       length="18170982" />
+        </item>
+
+        <item>
             <title>KatClaw 2026.5.19 (Build 381)</title>
             <description><![CDATA[
                 <ul>

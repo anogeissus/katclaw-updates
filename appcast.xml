@@ -2,6 +2,24 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.6.16 (Build 384)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Compatibility update for the latest OpenClaw release.</li>
+                    <li>Minor fixes and improvements.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 17 Jun 2026 01:57:59 -0700</pubDate>
+            <sparkle:version>384</sparkle:version>
+            <sparkle:shortVersionString>2026.6.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.6.16-384/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="9K/6QDGIS1q9Fyfk1eNIM3RJ7LzMkSay6HLNDV6XhRmMiynd6c/PC3RUEciUDNIM5bxP8iM9ThanQB77NRrzDg=="
+                       length="18171981" />
+        </item>
+
+        <item>
             <title>KatClaw 2026.5.20 (Build 382)</title>
             <description><![CDATA[
                 <ul>

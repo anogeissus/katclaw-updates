@@ -2,6 +2,26 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.6.30 (Build 386)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Added Z.ai GLM provider (pay-as-you-go API + GLM Coding Plan).</li>
+                    <li>Refreshed AI model lineup (latest Claude, OpenAI, Gemini, Grok, DeepSeek, Kimi, GLM, MiniMax).</li>
+                    <li>Compatibility with OpenClaw 2026.6.10/2026.6.11 (reliable gateway startup, auth in the new database, command owner set).</li>
+                    <li>Fixed a freeze when saving provider settings and added a saving spinner.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 30 Jun 2026 11:08:37 -0700</pubDate>
+            <sparkle:version>386</sparkle:version>
+            <sparkle:shortVersionString>2026.6.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.6.30-386/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="7E9jWosgrFkFYvbZqQvYHR1DpQb/h0nlr+0BdPnXJ0+e2Qwrad3ZJwmuzvuWyVrAqgeSFlaTMwjdA54YeuGZBg=="
+                       length="18214122" />
+        </item>
+
+        <item>
             <title>KatClaw 2026.6.16 (Build 384)</title>
             <description><![CDATA[
                 <ul>

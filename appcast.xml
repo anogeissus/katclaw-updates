@@ -2,6 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.8.13 (Build 387)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Node.js is now checked and updated automatically before OpenClaw updates, so a new OpenClaw release can no longer leave the gateway unable to start.</li>
+                    <li>Installs a supported LTS version of Node.js alongside your existing one. Nothing on your system is replaced or removed.</li>
+                    <li>The update log now names Node.js when it is the reason the gateway did not restart.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 12 Aug 2026 21:12:50 -0700</pubDate>
+            <sparkle:version>387</sparkle:version>
+            <sparkle:shortVersionString>2026.8.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.8.13-387/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="B7+fPWegbovI7JtmK2nScMSehnQFmqozWGAjtmnky/fAbUghhWnhnyjOwer8QCnIAvJNxGkV2HiTboFDh5SMDQ=="
+                       length="18126952" />
+        </item>
+
+        <item>
             <title>KatClaw 2026.6.30 (Build 386)</title>
             <description><![CDATA[
                 <ul>

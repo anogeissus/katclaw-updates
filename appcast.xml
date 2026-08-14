@@ -2,6 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
+            <title>KatClaw 2026.8.14 (Build 388)</title>
+            <description><![CDATA[
+                <ul>
+                    <li>A temporary problem reaching the license server no longer signs you out. Brief outages, timeouts and server errors are retried instead of being treated as a revoked license.</li>
+                    <li>Your license key now stays saved on this Mac, so a failed check never leaves you hunting for it again.</li>
+                    <li>The first license check waits until the network is up, rather than running the instant the app launches.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 14 Aug 2026 09:51:51 -0700</pubDate>
+            <sparkle:version>388</sparkle:version>
+            <sparkle:shortVersionString>2026.8.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anogeissus/katclaw-updates/releases/download/v2026.8.14-388/KatClaw.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="iuvPe9hOMp6plRRLAPoknhpxs+cOJva4eZSwKwDclz4+k/pFtTHoY3G3c8Tcju5UGo4XDt8VQKBjlI5RBg7xBA=="
+                       length="18247041" />
+        </item>
+
+        <item>
             <title>KatClaw 2026.8.13 (Build 387)</title>
             <description><![CDATA[
                 <ul>
